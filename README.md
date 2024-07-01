@@ -1,2 +1,4 @@
-# What The Flag
-WWDC23 Swift Student Challenge Project Submission
+# Mind Games
+WWDC24 Swift Student Challenge Project Submission
+
+**Accepted as a Distinguished Winner**
