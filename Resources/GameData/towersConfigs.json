@@ -1,0 +1,133 @@
+[
+    {
+        "startConfig": [
+            [1],
+            [2],
+            [3]
+        ],
+        "endConfig": [
+            [3],
+            [2],
+            [1]
+        ],
+        "minimumMoves": 3
+    },
+    {
+        "startConfig": [
+            [1, 2, 3],
+            [],
+            []
+        ],
+        "endConfig": [
+            [],
+            [],
+            [1, 2, 3]
+        ],
+        "minimumMoves": 7
+    },
+    {
+        "startConfig": [
+            [1, 2],
+            [3],
+            []
+        ],
+        "endConfig": [
+            [3],
+            [2],
+            [1]
+        ],
+        "minimumMoves": 6
+    },
+    {
+        "startConfig": [
+            [1],
+            [2, 3],
+            []
+        ],
+        "endConfig": [
+            [1, 3],
+            [],
+            [2]
+        ],
+        "minimumMoves": 4
+    },
+    {
+        "startConfig": [
+            [1],
+            [3],
+            [2]
+        ],
+        "endConfig": [
+            [3],
+            [],
+            [1, 2]
+        ],
+        "minimumMoves": 2
+    },
+    {
+        "startConfig": [
+            [1],
+            [3],
+            [2]
+        ],
+        "endConfig": [
+            [1],
+            [2, 3],
+            []
+        ],
+        "minimumMoves": 1
+    },
+    {
+        "startConfig": [
+            [2],
+            [1],
+            [3]
+        ],
+        "endConfig": [
+            [],
+            [1, 2, 3],
+            []
+        ],
+        "minimumMoves": 5
+    },
+    {
+        "startConfig": [
+            [1],
+            [],
+            [2, 3]
+        ],
+        "endConfig": [
+            [1, 2],
+            [],
+            [3]
+        ],
+        "minimumMoves": 3
+    },
+    {
+        "startConfig": [
+            [],
+            [],
+            [1, 2, 3]
+        ],
+        "endConfig": [
+            [],
+            [3],
+            [1, 2]
+        ],
+        "minimumMoves": 7
+    },
+    {
+        "startConfig": [
+            [],
+            [1, 3],
+            [2]
+        ],
+        "endConfig": [
+            [],
+            [2],
+            [1, 3]
+        ],
+        "minimumMoves": 5
+    }
+]
+

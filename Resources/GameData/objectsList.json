@@ -1,0 +1,17 @@
+[
+    ["figure", "figure.wave.flip", "figure.stand"],
+    ["figure.walk.flip", "figure.run.flip"],
+    ["hand.raised.flip", "hand.raised.fingers.spread.flip", "hand.wave.flip"],
+    ["hourglass", "hourglass.bottomhalf.filled", "hourglass.tophalf.filled"],
+    ["cat.flip", "dog.flip"],
+    ["lightbulb", "lightbulb.led", "lightbulb.led.wide"],
+    ["lamp.table", "lamp.floor"],
+    ["chair", "chair.lounge"],
+    ["car", "car.rear", "bus", "bus.doubledecker"],
+    ["balloon.flip"],
+    ["bicycle.flip", "scooter.flip"],
+    ["cloud.flip", "cloud.rain.flip", "cloud.snow.flip", "cloud.bolt.flip"],
+    ["globe.americas", "globe.europe.africa", "globe.asia.australia", "globe.central.south.asia"],
+    ["graduationcap.flip"],
+    ["umbrella.flip", "beach.umbrella.flip"]
+]
